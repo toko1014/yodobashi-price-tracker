@@ -1,0 +1,10 @@
+# Pythonの一時ファイル
+__pycache__/
+*.py[cod]
+
+# SQLiteデータベース
+my_app.db
+
+# 仮想環境（もし使っていれば）
+venv/
+.venv/
